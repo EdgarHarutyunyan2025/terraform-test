@@ -1,5 +1,5 @@
 variable "allow_ports" {
-  default = ["80", "22", "50", "8080"]
+  default = ["80", "22"]
 }
 
 variable "instance_type" {
